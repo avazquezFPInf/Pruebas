@@ -167,8 +167,3 @@ El document ha d'incloure, com a mínim:
 Abans de lliurar-lo, comprova que el document es visualitza correctament a la previsualització de Markdown de Visual Studio Code i que tots els elements demanats hi apareixen.
 
 > Aquesta és una guia bàsica de Markdown. Fes-la servir com a referència durant tot el mòdul.
-
-##11. Cambios
-Hacemos unos pequeños cambios para que se vean.
-
-
