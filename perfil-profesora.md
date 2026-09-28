@@ -7,3 +7,6 @@ En esta RA trabajaremos la documentación técnica, Git, GitHub y la publicació
 ## Tecnologías
 
 HTML · CSS · JavaScript · Markdown · Git · GitHub
+
+### Ramas
+Escribo esto desde RamaAlternativa.
