@@ -1,7 +1,12 @@
 Este es un fichero de colaboracion
 
+<<<<<<< HEAD
 
 Estas lineas las escribo desde el master del universo.
 ¿Que haremos?
 
 
+=======
+Ahora escribo desde la rama feature/mesaje
+Estas son las lineas de la rama
+>>>>>>> feature/mesaje
