@@ -10,3 +10,6 @@ HTML · CSS · JavaScript · Markdown · Git · GitHub
 
 ### Ramas
 Escribo esto desde RamaAlternativa.
+
+
+Actualizzo mi perfil: Ahora trabajo ene l Thos i Codina.
